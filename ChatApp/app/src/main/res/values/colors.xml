@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="timedispatch">#999999</color>
+    <color name="nickname">#222222</color>
+
+    <color name="bg_edittext">#5D6D7E</color>
+    <color name="edittext_background">#F5F5F5</color>
+    <color name="chat_screen_color">#34495E</color>
+    <color name="bg_color_sent_msg">#FBFCFC</color>
+
+    <color name="list_divider">#dedede</color>
+    <color name="bg_bubble_self">#E1E1E1</color>
+
+    <color name="bg">#CFD5F7</color>
+</resources>

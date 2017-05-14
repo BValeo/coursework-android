@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="login">Войти</string>
+    <string name="signin">Регистрация</string>
+    <string name="loginText">Логин</string>
+    <string name="passText">Пароль</string>
+    <string name="action_logout">Выйти</string>
+</resources>
